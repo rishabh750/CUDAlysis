@@ -1,10 +1,10 @@
-# CUDAlysis-v1.1
+# CUDAlysis-v2.0
 
 INTRODUCTION
 
   Abstract
 
-  This software package can be readily used by non-programming personal avoiding human handled chance of error. The software provides a   GUI for better understanding and user interactivity and can be used for educational purposes. The main algorithms are implemented in     C++ for CPU executions, while on CUDA C, which is a GPU processing framework for C. The frontend and the observation dashboard will be   developed in MATLAB as it provides programmer friendly environment for GUI development with MATLAB GUIDE and is also good for           analysing resulting data and representing the statistics in tabular as well as graphical (plot) format.
+  This software package can be readily used by non-programming personal avoiding human handled chance of error. The software provides a   GUI for better understanding and user interactivity and can be used for educational purposes. The main algorithms are implemented in     C++ for CPU executions, while on CUDA C, which is a GPU processing framework for C. The frontend and the observation dashboard will be   developed in Python which provides programmer friendly sysntax for development and is also good for handling resulting data of various formats, sizes and precision levels.
 
   Objective
   
