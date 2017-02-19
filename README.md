@@ -24,4 +24,4 @@ FUTURE SCOPE
   
 CONCLUSION
 
-  Analysed few basic Image Processing algorithms giving 1.6x speedup without fetch and 1.08x speedup with fetch when implemented on CUDA C++ over C++ with 25-48.7% functional parallelism (100% data parallelism) according to Ahmdal's law.
+  Analysed few basic Image Processing algorithms giving 1.6x average speedup with/without fetch when implemented on CUDA C++ over C++ with 25-48.7% functional parallelism (100% data parallelism).
